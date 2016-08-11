@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Wu-Tang Clan Ain't Nothin' ta Fuck Wit</h2>
+It's <%= new Date() %>
+And the Yankees still suck
 </body>
 </html>
